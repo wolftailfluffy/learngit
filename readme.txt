@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git chacks changes.
 Creating a new branch is quick and simple.
+Test --no-ff merge.
